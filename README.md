@@ -65,3 +65,10 @@ Experienced senior software engineer with around 10 years of experience in devel
 - Problem-solving and critical thinking
 - Time management and prioritization
 - Adaptability and flexibility
+
+### Certifications
+- CKAD - Certified Kubernetes Application Developer
+- HashiCorp Certified Terraform Associate
+- AWS Certified Developer Associate
+- Microsoft Certified Azure Fundamentals
+- OCP Java SE 6 Programmer
