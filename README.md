@@ -12,6 +12,8 @@ Experienced senior software engineer with around 10 years of experience in devel
 ### A. P. Moller - Maersk, Senior Software Engineer (2022 - Till date)
 - **Synergy Experience (_Current project_)**
   - This is a new product which would host some critical internal-facing APIs that would power Maersk.com frontends (web & mobile) as well as external APIs that are exposed on the Maersk Developer portal. Some of these APIs were backed by legacy backends and needed to be migrated to new event sources such as kafka topics.
+  - Involved in the provisioning the infrastruture, implementing the components, preparing load tests and CD pipelines associated with these services.
+  - Completed migration of the Schedules API and received positive feedback from various stakeholders for the same.
 - **Equipment Inspection Mobile App**
   - Short 2 month stint during which I worked on laying the groundwork for the migration of the EIR app's monolithic Azure LogicApps based backend to a more scalable Event-driven microservice based architecture. I contributed to the system's overall design along with the existing team and implemented & released the first version of the new services.
   - My efforts were well appreciated by the team as it served as a catalyst in reducing their technical debts.
@@ -51,7 +53,8 @@ Experienced senior software engineer with around 10 years of experience in devel
 ## Skills
 ### Technical Skills
 - Programming languages: Java, Python
-- Programming paradigms: Functional, Object-oriented
+- Frameworks: Spring, Project Reactor (Reactive Programming)
+- Programming paradigms: Functional, Object-oriented, Reactive
 - Testing: JUnit, Mockito
 - Database technologies: PostgreSQL
 - Cloud computing: AWS, Azure, Digital Ocean
