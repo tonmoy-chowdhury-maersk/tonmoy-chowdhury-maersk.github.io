@@ -6,7 +6,7 @@
 - **Email (Personal):** 17.tonmoy@gmail.com
 
 ## Summary
-Experienced senior software engineer with around 10 years of experience in developing and delivering high-quality software solutions. Proven track record of leading cross-functional teams and driving successful project outcomes using agile development methodologies. Somewhat of a neophile!
+Experienced senior software engineer with around 10 years of experience in developing and delivering high-quality software solutions. Proven track record of leading cross-functional teams and driving successful project outcomes using agile development methodologies. I am passionate about exploring & working in the area of cloud-native & distributed applications. Also, somewhat of a neophile!
 
 ## Work Experience
 ### A. P. Moller - Maersk, Senior Software Engineer (2022 - Till date)
